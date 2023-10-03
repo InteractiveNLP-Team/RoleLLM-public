@@ -7,8 +7,12 @@ RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large 
 </p>
 
 <p align="center">  
-Models (upcoming); Paper (upcoming); Demos (upcoming); Data (upcoming)
+Models (upcoming); 
+<a href="https://arxiv.org/pdf/2310.00746.pdf">Paper</a> (upcoming); 
+Demos (upcoming); 
+Data (upcoming)
 </p>
+
 
 ![](./assets/rolellm-bird-eye.png)
 
