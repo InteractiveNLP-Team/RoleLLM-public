@@ -103,7 +103,14 @@ RoleLLM comprises four stages: (1) role profile construction; (2) context-based 
 
 Feel free to cite us if you like RoleBench and RoleLLM.
 
-<u>*placeholder for RoleLLM.*</u>
+```bibtex
+@article{wang2023rolellm,
+  title   = {RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models},
+  author  = {Zekun Moore Wang and Zhongyuan Peng and Haoran Que and Jiaheng Liu and Wangchunshu Zhou and Yuhan Wu and Hongcheng Guo and Ruitong Gan and Zehao Ni and Man Zhang and Zhaoxiang Zhang and Wanli Ouyang and Ke Xu and Wenhu Chen and Jie Fu and Junran Peng},
+  year    = {2023},
+  journal = {arXiv preprint arXiv: 2310.00746}
+}
+```
 
 ```bibtex
 @article{wang2023interactive,
