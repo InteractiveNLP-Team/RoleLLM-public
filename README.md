@@ -8,7 +8,7 @@ RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large 
 
 <p align="center">  
 Models (upcoming); 
-<a href="https://arxiv.org/pdf/2310.00746.pdf">Paper</a> (upcoming); 
+<a href="https://arxiv.org/pdf/2310.00746.pdf">Paper</a>; 
 Demos (upcoming); 
 Data (upcoming)
 </p>
