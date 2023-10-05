@@ -27,8 +27,7 @@ The advent of Large Language Models (LLMs) has paved the way for complex tasks s
 
 ## What's New
 
-Waiting for updates...
-
+- **[2023/10/3]** Our [paper](https://arxiv.org/abs/2310.00746) is released.
 
 
 ## Basic Statistics of RoleBench
@@ -97,7 +96,9 @@ RoleLLM comprises four stages: (1) role profile construction; (2) context-based 
 
 ![](./assets/hawking-demo.png)
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=InteractiveNLP-Team/RoleLLM-public&type=Date)](https://star-history.com/#InteractiveNLP-Team/RoleLLM-public&Date)
 
 ## Citation
 
