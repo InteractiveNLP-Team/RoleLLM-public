@@ -9,8 +9,8 @@ RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large 
 <p align="center">  
 Models (upcoming); 
 <a href="https://arxiv.org/pdf/2310.00746.pdf">Paper</a>; 
-Demos (upcoming); 
-Data (upcoming)
+Demo (upcoming); 
+<a href="https://huggingface.co/datasets/ZenMoore/RoleBench">Data</a>
 </p>
 
 
@@ -27,42 +27,20 @@ The advent of Large Language Models (LLMs) has paved the way for complex tasks s
 
 ## What's New
 
+- **[2023/10/19]** Our [RoleBench data](https://huggingface.co/datasets/ZenMoore/RoleBench) is released.
+
 - **[2023/10/3]** Our [paper](https://arxiv.org/abs/2310.00746) is released.
 
 
-## Basic Statistics of RoleBench
+## RoleBench Statistics
 
-| Metric                             | Value            |
-| ---------------------------------- | ---------------- |
-| # of role categories               | 30               |
-| # of script categories             | 20               |
-|                                    |                  |
-| # of roles                         | 100              |
-| - # of English roles               | 95               |
-| - # of Chinese roles               | 5                |
-| # of dialogue rounds               | 140,726          |
-|                                    |                  |
-| # of samples / instructions        | 168,093 / 23,463 |
-| - of general-purpose               | 147,609 / 2,979  |
-| - in English                       | 140,225 / 1,500  |
-| - in Chinese                       | 7,384 / 1,479    |
-| - of open questions (qs)           | 22,479 / 223     |
-| - of commonsense qs                | 37,072 / 461     |
-| - of knowledge-intensive qs        | 88,058 / 2,295   |
-| - of role-specific                 | 20,484 / 20,484  |
-| - in English                       | 18,949 / 18,949  |
-| - in Chinese                       | 1,535 / 1,535    |
-| - of script-agnostic qs            | 13,220 / 13,220  |
-| - of script-based qs               | 7,164 / 7,164    |
-|                                    |                  |
-| avg. instruction length (in words) | 25.71            |
-| avg. response length (in words)    | 30.48            |
+![](./assets/statistics-1.png)
 
-
+![](./assets/statistics-2.png)
 
 ## List of Roles
 
-Abraham Lincoln, Alvy Singer, Andrew Detmer, Angel, Antonio Salieri, Bai Li (Chinese), Benjamin Button, Blair Waldorf, Bruno Antony, Caden Cotard, Caesar, Coach Eric Taylor, Colonel Hans Landa, Colonel Nathan R. Jessep, Coriolanus, D\_Artagnan, David Aames, Doctor Who, Dr. Frank N Furter, Dr. Hannibal Lecter, Emperor (Chinese), Fei Zhang (Chinese), Fletcher Reede, Frank T.J. Mackey, Fred Flintstone, Freddy Krueger, Gaston, Gregory House, HAL 9000, Harvey Milk, Imperial Concubine Hua (Chinese), Jack, Jack Sparrow, Jack Torrance, Jackie Moon, James Bond, James Brown, James Carter, Jeff Spicoli, Jigsaw, Jim Morrison, John Coffey, John Dillinger, John Doe, John Keating, Jordan Belfort, Judge Dredd, Judy Hoops, Juno MacGuff, Karl Childers, Klaus Mikaelson, Leonard Shelby, Leroy Jethro Gibbs, Lestat de Lioncourt, Logan, Lucifer Morningstar, Lyn Cassady, Malcolm X, Mark Renton, Mary Sibley, Mater, Michael Scott, Murphy MacManus, Oliver Queen, Pat Solitano, Paul Conroy, Paul Vitti, Peter Parker, Po, Professor G.H. Dorr, Queen Catherine, Queen Elizabeth I, Rachel Lang, Randle McMurphy, Raylan Givens, Robert Angier, Rorschach, Seth, Sheldon Cooper, Sherlock Holmes, Shrek, Sonny, Stanley Ipkiss, Stephen Hawking, Stifler, The Dude, Theodore Twombly, Thor, Tom Ripley, Travis Bickle, Truman Capote, Tugg Speedman, Twilight Sparkle, Tyler Hawkins, Tyrion Lannister, Violet Weston, Wade Wilson, Walt Kowalski, Willie Soke, Wukong Sun (Chinese). 
+Abraham Lincoln, Alvy Singer, Andrew Detmer, Angel, Antonio Salieri, Bai Li (李白，Chinese), Benjamin Button, Blair Waldorf, Bruno Antony, Caden Cotard, Caesar, Coach Eric Taylor, Colonel Hans Landa, Colonel Nathan R. Jessep, Coriolanus, D_Artagnan, David Aames, Doctor Who, Dr. Frank N Furter, Dr. Hannibal Lecter, Emperor (《甄嬛传》皇帝，Chinese), Fei Zhang (张飞，Chinese), Fletcher Reede, Frank T.J. Mackey, Fred Flintstone, Freddy Krueger, Gaston, Gregory House, HAL 9000, Harvey Milk, Imperial Concubine Hua (《甄嬛传》华妃，Chinese), Jack, Jack Sparrow, Jack Torrance, Jackie Moon, James Bond, James Brown, James Carter, Jeff Spicoli, Jigsaw, Jim Morrison, John Coffey, John Dillinger, John Doe, John Keating, Jordan Belfort, Judge Dredd, Judy Hoops, Juno MacGuff, Karl Childers, Klaus Mikaelson, Leonard Shelby, Leroy Jethro Gibbs, Lestat de Lioncourt, Logan, Lucifer Morningstar, Lyn Cassady, Malcolm X, Mark Renton, Mary Sibley, Mater, Michael Scott, Murphy MacManus, Oliver Queen, Pat Solitano, Paul Conroy, Paul Vitti, Peter Parker, Po, Professor G.H. Dorr, Queen Catherine, Queen Elizabeth I, Rachel Lang, Randle McMurphy, Raylan Givens, Robert Angier, Rorschach, Seth, Sheldon Cooper, Sherlock Holmes, Shrek, Sonny, Stanley Ipkiss, Stephen Hawking, Stifler, The Dude, Theodore Twombly, Thor, Tom Ripley, Travis Bickle, Truman Capote, Tugg Speedman, Twilight Sparkle, Tyler Hawkins, Tyrion Lannister, Violet Weston, Wade Wilson, Walt Kowalski, Willie Soke, Wukong Sun (《西游记》孙悟空，Chinese).
 
 All the mentioned roles are showcased with portraits in the role panorama at the beginning.
 
