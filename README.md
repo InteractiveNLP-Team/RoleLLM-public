@@ -27,6 +27,8 @@ The advent of Large Language Models (LLMs) has paved the way for complex tasks s
 
 ## What's New
 
+- **[2023/12/1]** Our RoleBench is integrated into [OpenCompass](https://github.com/open-compass/opencompass/pull/633) for comprehensive evaluation of LLM.
+
 - **[2023/10/19]** Our [RoleBench data](https://huggingface.co/datasets/ZenMoore/RoleBench) is released.
 
 - **[2023/10/3]** Our [paper](https://arxiv.org/abs/2310.00746) is released.
