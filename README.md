@@ -87,18 +87,8 @@ Feel free to cite us if you like RoleBench and RoleLLM.
 ```bibtex
 @article{wang2023rolellm,
   title   = {RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models},
-  author  = {Zekun Moore Wang and Zhongyuan Peng and Haoran Que and Jiaheng Liu and Wangchunshu Zhou and Yuhan Wu and Hongcheng Guo and Ruitong Gan and Zehao Ni and Man Zhang and Zhaoxiang Zhang and Wanli Ouyang and Ke Xu and Wenhu Chen and Jie Fu and Junran Peng},
+  author  = {Zekun Moore Wang and Zhongyuan Peng and Haoran Que and Jiaheng Liu and Wangchunshu Zhou and Yuhan Wu and Hongcheng Guo and Ruitong Gan and Zehao Ni and Jian Yang and Man Zhang and Zhaoxiang Zhang and Wanli Ouyang and Ke Xu and Stephen W. Huang and Jie Fu and Junran Peng},
   year    = {2023},
   journal = {arXiv preprint arXiv: 2310.00746}
 }
 ```
-
-```bibtex
-@article{wang2023interactive,
-  title={Interactive Natural Language Processing},
-  author={Wang, Zekun and Zhang, Ge and Yang, Kexin and Shi, Ning and Zhou, Wangchunshu and Hao, Shaochun and Xiong, Guangzheng and Li, Yizhi and Sim, Mong Yuan and Chen, Xiuying and others},
-  journal={arXiv preprint arXiv:2305.13246},
-  year={2023}
-}
-```
-
