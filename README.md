@@ -7,9 +7,7 @@ RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large 
 </p>
 
 <p align="center">  
-Models (upcoming); 
 <a href="https://arxiv.org/pdf/2310.00746.pdf">Paper</a>; 
-Demo (upcoming); 
 <a href="https://huggingface.co/datasets/ZenMoore/RoleBench">Data</a>
 </p>
 
